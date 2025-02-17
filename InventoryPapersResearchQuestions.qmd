@@ -1,0 +1,22 @@
+---
+title: "Raw Half-Cooked Paper and Research Ideas"
+author: "Alper Duman"
+format: html
+editor: visual
+---
+
+## Raw Ideas, Semi-cooked Paper/Research Questions
+
+1.  Union Wage Premium in Turkey (Update and to be posted on GitHub) - External Drive Anıl folder
+2.  Real Income Distribution in Turkey (Update and to be posted on GitHub) - External Drive BSB folder
+3.  Business Groups and Corporate Boards Network (Update and to be posted on Github) -the latest version would be Stockholm presentation
+4.  A Game-theoretic model on the evolution of democracy in Turkey -VERY RAW
+5.   Household Debt and Growth Dynamics in Turkey (Update and to be posted on GitHub)
+6.  Social Norm Dynamics in Turkey: Turban (with Efe Postalcı) only the presentation exists
+7.  Mind the Gap: Public Sector Wage Premium in Turkey
+8.  Agent Based Model of Trade Credit Network
+9.  Power-Law Distribution of Firm Size in Turkey
+10. Informality and Spread across Countries
+11. Modified Gravity Model of Inter-city Trade in Turkey
+12. Input-Output Centrality and Economic Complexity (CEC submission, post on GitHub)
+13. 
